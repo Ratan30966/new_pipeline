@@ -3,7 +3,7 @@ def test_sum():
   b=20
   assert a+b == 30
   
-  def test_sum1():
+def test_sum1():
   a=10
   b=20
   assert a+b == 30
